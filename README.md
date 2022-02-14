@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Marco A. Sánchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Specialist%20on%20Codeforces;6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -26,7 +26,6 @@
 
 ### 👉 Programming languages
 
-  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
@@ -36,7 +35,7 @@
   </a>
 
 ### 👉 Frontend Development
-  &emsp; 
+
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
@@ -47,7 +46,6 @@
 
  ### 👉 Software & Tools
  
-  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
@@ -56,14 +54,12 @@
 
  ### 👉 IDEs
  
-  &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
 
  ### 👉 Operating Systems
  
-  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a> 
