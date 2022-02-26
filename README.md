@@ -12,7 +12,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` developer at Iodata S.A. de C.V.
+- :school: I am a `Freelance` developer.
 - :trophy: `Web Responsive` certified
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a `competitive` programmer
